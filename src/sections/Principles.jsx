@@ -62,11 +62,12 @@ export function Principles() {
         <img src="/global-search.svg" alt="Icon" className="max-w-8" />
         <h3 className="text-terracota font-bold text-h5">Missão</h3>
         <p>
-          Nossa empresa busca oferecer soluções que atendam às necessidades do
-          mercado com compromisso ético, responsabilidade social e
-          transparência. Queremos superar as expectativas de clientes,
-          fornecedores e colaboradores, promovendo o desenvolvimento sustentável
-          em todas as nossas operações.
+          Nossa missão é ser uma empresa reconhecida por oferecer soluções que
+          atendam às necessidades do mercado, mantendo o compromisso com a ética
+          empresarial, responsabilidade social e transparência comercial. Nosso
+          objetivo é superar as expectativas dos clientes, fornecedores e
+          colaboradores, promovendo o desenvolvimento sustentável em todas as
+          nossas operações
         </p>
       </motion.div>
       <motion.div
