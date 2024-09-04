@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+img {
+  max-width: 100%;
+}
+
+.card {
+  @apply max-w-[300px] flex flex-col text-start gap-4;
+}
+
+.button_quentao {
+  @apply w-fit bg-quentao hover:bg-sepia text-white font-bold text-h5 px-6 py-3 transition-colors;
+}
